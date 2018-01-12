@@ -7,6 +7,7 @@ nginx 通过lua 从外层扩展对应的web程序
 
 ### 安装配置
 *  安装nginx lua tools/nginx_lua.sh 
+*  安装luarocks tools/luarocks.sh
 
 ### 项目依赖:
 
